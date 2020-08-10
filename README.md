@@ -1,5 +1,5 @@
 # Mapping_Earthquakes
-This analysis uses a MapBox API and Leaflet styled map layers to illustrate the relationship between the location and frequency of seismic activity and tectonic plates using live GeoJSON data files. 
+This analysis uses a MapBox API and Leaflet styled map layers to illustrate the relationship between the location and frequency of seismic activity and tectonic plates using GeoJSON data files. 
 
 ### GeoJSON Data Sources:
 USGS Recorded Earthquakes (past 7 days)
