@@ -8,6 +8,10 @@ USGS Recorded Earthquakes (past 7 days)
 Tectonic Plate Boundaries
 - https://github.com/fraxen
 
+### Challenge
+
+![alt text]https://github.com/elenaguilarv/Mapping_Earthquakes/blob/master/earthquakes-tectonics-map.PNG
+
 ### Recommendation:
 - Adjust the political world map to the earthquakes and tectonic plate data or wrap the data to the width of the map when zoomed out fully.  
  
